@@ -1,7 +1,7 @@
 {
   "title": [
     {
-      "pattern": "^(build|ci|docs|feat|fix|perf|refactor|style|test)((.+))?:\\s.+",
+      "pattern": "^((Feature|Fix|Build|Perf|Refactor|Test|Docs)[/][0-9]+: [a-zA-Z]{1,50})",
       "message": "Your title needs to be prefixed with a topic"
     }
   ]
