@@ -7,9 +7,10 @@
   ],
   "labels.0.name": [
     {
-      "pattern": "bug|enhancement|question",
+      "pattern": "bug|enhancement|question|",
       "message": "Please add a label"
     }
   ]
 
 }
+
